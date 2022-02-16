@@ -2,7 +2,7 @@ body{
     font-family: 'Source Sans Pro', sans-serif;
 }
 #first-h1{
-    color: #3D3D6B;
+    color: azure;
     font-size: 45px;
     margin-top: 50px;
     margin-bottom: 50px;
@@ -69,4 +69,39 @@ body{
     color: red;
     font-size: 15px;
     text-align: center;
+}
+#expenses-error{
+    color: red;
+    font-size: 15px;
+}
+@media screen and (max-width: 350px) { 
+    #first-h1{
+        font-size: 10px;
+    }
+    .income-section label{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 550px) { 
+    #first-h1{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 768px) {
+    #left-section{
+        margin-bottom: 20px;
+    }
+    #left-section img{
+        max-height: 100vh;
+    }
+    #first-h1{
+        font-size: 30px;
+    }
+    
+
+}
+@media screen and (max-width: 991px) {
+    #left-section{
+        margin-bottom: 20px;
+    }
 }

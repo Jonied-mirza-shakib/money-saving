@@ -46,3 +46,17 @@ body{
     padding: 15px 60px;
     margin-top: 20px;
 }
+#save-error{
+    color: red;
+    font-size: 15px;
+}
+#income-input-error{
+    color: red;
+    font-size: 15px;
+    text-align: center;
+}
+#food-input-error{
+    color: red;
+    font-size: 15px;
+    text-align: center;
+}

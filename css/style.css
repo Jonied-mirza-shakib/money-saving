@@ -1,0 +1,48 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#first-h1{
+    color: #3D3D6B;
+    font-size: 45px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#right-section{
+    background-color:floralwhite;
+}
+.income-section h3{
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #3D3D6B;
+}
+.income-section label{
+    font-size: 25px;
+    color: #3D3D6B;
+}
+.income-section input{
+    margin: 10px;
+    border: 3px solid rgb(47, 74, 54);
+    padding: 8px 10px;
+}
+.expenses-section{
+    margin-top: 20px;
+}
+.expenses-section h3{
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #3D3D6B;
+}
+.expenses-section label{
+    font-size: 25px;
+    color: #3D3D6B;
+}
+.expenses-section input{
+    margin: 10px;
+    border: 3px solid rgb(47, 74, 54);
+    padding: 8px 10px;
+}
+#calculate-btn{
+    font-size: 25px;
+    padding: 15px 60px;
+    margin-top: 20px;
+}

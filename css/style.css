@@ -37,7 +37,7 @@ body{
     color: #3D3D6B;
 }
 .expenses-section input{
-    margin: 10px;
+    margin: 10;
     border: 3px solid rgb(47, 74, 54);
     padding: 8px 10px;
 }

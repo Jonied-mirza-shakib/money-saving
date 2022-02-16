@@ -60,3 +60,13 @@ body{
     font-size: 15px;
     text-align: center;
 }
+#rent-input-error{
+    color: red;
+    font-size: 15px;
+    text-align: center;
+}
+#clothes-input-error{
+    color: red;
+    font-size: 15px;
+    text-align: center;
+}
